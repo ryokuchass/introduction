@@ -1,0 +1,3 @@
+はじめてのGitです。がんばって。
+・git add
+・git commit
